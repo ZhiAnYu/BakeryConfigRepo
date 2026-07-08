@@ -1,0 +1,7 @@
+bakery: 
+  name: "Сладкий Код "
+  specialty: "Торт Наполеон"
+  oven:
+    temperature: 180
+    timer-minutes: 45
+  greeting: "Добро пожаловать в кондитерскую!"
