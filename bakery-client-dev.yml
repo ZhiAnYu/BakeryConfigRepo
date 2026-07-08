@@ -1,0 +1,7 @@
+bakery: 
+  name: "Сладкий Код [DEV]"
+  specialty: "Торт Медовик (тестовое)"
+  oven:
+    temperature: 150
+    timer-minutes: 50
+  greeting: "Добро пожаловать на тестовую дегустацию!"
