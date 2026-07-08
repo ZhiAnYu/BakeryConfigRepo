@@ -5,4 +5,4 @@ bakery:
   oven:
     temperature: 180
     timer-minutes: 45
-  greetings: "Добро пожаловать в кондитерскую!"
+  greeting: "Добро пожаловать в кондитерскую!"
