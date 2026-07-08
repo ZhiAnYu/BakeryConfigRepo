@@ -1,5 +1,6 @@
 bakery: 
   name: "Сладкий Код "
+  version: "1.0.0"
   specialty: "Торт Наполеон"
   oven:
     temperature: 180
