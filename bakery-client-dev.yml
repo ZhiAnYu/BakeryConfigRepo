@@ -1,5 +1,6 @@
 bakery: 
   name: "Сладкий Код [DEV]"
+  version: "1.0.0-SNAPSHOT"
   specialty: "Торт Медовик (тестовое)"
   oven:
     temperature: 150
