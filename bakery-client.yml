@@ -1,0 +1,8 @@
+# bakery-client.yml
+bakery:
+  name: "Сладкий Код"
+  speciality: "Торт Наполеон"
+  oven:
+    temperature: 180
+    timer-minutes: 45
+  greetings: "Добро пожаловать в кондитерскую!"
